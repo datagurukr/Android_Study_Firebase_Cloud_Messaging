@@ -1,0 +1,16 @@
+<resources>
+<string name="app_name">study_firebase_cloud_messaging</string>
+
+<string name="hello_world">Hello world!</string>
+<string name="action_settings">Settings</string>
+
+<string name="fcm_cloud_messaging">Firebase Cloud Messaging</string>
+    <string name="quickstart_message">Click the SUBSCRIBE TO NEWS button below to subscribe to the
+        news topic. Messages sent to the news topic will be received. The LOG TOKEN button logs the
+        InstanceID token to logcat.</string>
+<string name="subscribe_to_news">Subscribe To News</string>
+<string name="log_token">Log Token</string>
+
+<string name="msg_subscribed">Subscribed to news topic</string>
+<string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+</resources>
